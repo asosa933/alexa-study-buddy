@@ -1,0 +1,1 @@
+{"type":"module","name":"alexa-study-buddy","private":true,"scripts":{"test":"node tests/agent.test.mjs"}}
